@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<% [1,2,3,4].each do |number| %>
+<% if number.even? %>
+<li><%= number %> is even. </li>
+<% else %>
+<li><%= number %> is odd. </li>
+<% end %>
+<% end %>
+</body>
+</html>

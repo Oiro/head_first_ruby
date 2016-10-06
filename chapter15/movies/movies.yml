@@ -1,0 +1,21 @@
+---
+1: !ruby/object:Movie
+  title: Star Wars
+  director: George Lucas
+  year: '1977'
+  id: 1
+2: !ruby/object:Movie
+  title: Barbados The Madrid Job
+  director: Wesley Snipes
+  year: '2016'
+  id: 2
+3: !ruby/object:Movie
+  title: Bourne Legacy
+  director: Jason Bourne
+  year: '1999'
+  id: 3
+4: !ruby/object:Movie
+  title: The Passion of The Christ
+  director: Mel Gibson
+  year: '2001'
+  id: 4
